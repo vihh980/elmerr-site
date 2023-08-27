@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+    text-align: center;
+}
+/*.rectangle {
+    width: 30rem;
+    height: 50rem;
+    background: rgb(0, 119, 128);
+}*/
+.img{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    margin: 8px;
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(52,52,52);
+}
+.youtube-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.youtube-button img{
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.whatsapp-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.whatsapp-button img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+}
+.wizard-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.wizard-button img {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 60px;
+    height: 60px;
+}
